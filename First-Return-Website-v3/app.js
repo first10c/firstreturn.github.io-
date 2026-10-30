@@ -1,5 +1,5 @@
 // Edit this address here if the game moves. The existing game is hosted separately.
-const GAME_URL = 'https://lww9057-prog.github.io/RcyEGaaFiin.github.io-/First-Return-standalone%20(5)';
+const GAME_URL = 'https://first10c.github.io/RcyEGaaFiin.github.io-/First-Return-standalone%20(5)';
 const OFFICIAL_URL = 'https://cdsvic.org.au/';
 const app = document.querySelector('#app');
 const img = (name, alt, cls = '') => `<img src="assets/${name}.png" alt="${alt}" class="${cls}" loading="lazy" decoding="async">`;
